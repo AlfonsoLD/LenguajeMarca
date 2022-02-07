@@ -1,0 +1,7 @@
+<!ELEMENT libro (codigo,categoria, titulo, autor+, num_pag, fecha_publicacion)>
+<!ELEMENT codigo (T|P|N|H)>
+<!ELEMENT categoria (TEATRO|Poesia|Novela|Historia)>
+<!ELEMENT titulo (#PCDATA)>
+<!ELEMENT autor (nombre, apellidos, pseudonimo?)>
+<!ELEMENT num_pag (#PCDATA)>
+<!ELEMENT fecha_publicacion (#PCDATA)>

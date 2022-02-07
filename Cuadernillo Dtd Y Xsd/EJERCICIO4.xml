@@ -1,0 +1,36 @@
+<?xml version="1.0" encoding="utf-8"?>
+  <?xml-model href="EJERCICIO4.xsd"?>
+
+  <shiporder orderid="3012929">
+    <orderperson>juan</orderperson>
+  <shipto>
+    <name>corr</name>
+    <address>calee</address>
+    <city>sevi</city>
+    <country>esp</country>
+  </shipto>
+  <item>
+    <title>el que tu quiera</title>
+    <note>edokd</note>
+    <quantity>9564</quantity>
+    <price>24657402349058</price>
+  </item>
+  <item>
+    <title>sisi</title>
+    <note>haola</note>
+    <quantity>9234</quantity>
+    <price>2359180.2349058</price>
+  </item>
+  <item>
+    <title>ciosdm</title>
+    <note>cnco</note>
+    <quantity>522</quantity>
+    <price>2567370349058</price>
+  </item>
+  <item>
+    <title>danien</title>
+    <note>dapmneod</note>
+    <quantity>5243</quantity>
+    <price>-4518150942</price>
+  </item>
+</shiporder>
